@@ -1,0 +1,6 @@
+{
+  "name": "RV Events and Management Farrukhabad",
+  "description": "Premium event planning, wedding decoration, stage styling, and celebration management in Farrukhabad, Uttar Pradesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
